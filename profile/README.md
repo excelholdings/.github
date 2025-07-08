@@ -1,5 +1,5 @@
 # Welcome to Excel 👋
 
-Thrive is a mix of consultancyk advisor, and holding company for high-growth software projects. It's owned and operated by Carl Cortright.
+Thrive is a mix of consultancy, advisory, and holding company for high-growth software projects. It's owned and operated by Carl Cortright.
 
 [Website](https://excel.holdings)
